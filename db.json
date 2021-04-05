@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "relaxing tea",
+      "description": "Today was a good day",
+      "img": "tea.jpeg",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "title": "beach day fun",
+      "description": "My goals",
+      "img": "beach.jpeg",
+      "likes": 4
+    },
+    {
+      "id": 3,
+      "title": "working hard",
+      "description": "Learning react",
+      "img": "laptop.jpeg",
+      "likes": 5
+    },
+    {
+      "id": 4,
+      "title": "becoming artistic",
+      "description": "drawing on procreate",
+      "img": "ipadart.jpeg",
+      "likes": 3
+    },
+    {
+      "id": 5,
+      "title": "be fit!",
+      "description": "earning a healthy and firm body",
+      "img": "workoutgirl.jpeg",
+      "likes": 2
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "Beautiful picture!", "postId": 1 },
+    { "id": 2, "body": "What kind of tea is it?", "postId": 1 },
+    { "id": 3, "body": "Take me to the beach with you!", "postId": 2 },
+    { "id": 4, "body": "Keep up the great work!", "postId": 3 },
+    { "id": 5, "body": "You are such a great artist already!", "postId": 4 },
+    { "id": 6, "body": "This is such a great drawing.", "postId": 4 },
+    { "id": 7, "body": "Work it girl!", "postId": 5 },
+    { "id": 8, "body": "Body goals!", "postId": 5 }
+  ]
+}

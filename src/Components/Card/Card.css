@@ -1,0 +1,21 @@
+img {
+    height:100px;
+    width:10rem;
+    border-radius: 5px;
+}
+.card-content{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    border:1px black solid;
+    border-radius: 10px;
+    height:200px;
+    width: 20rem;
+    text-align: center;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.main-card-container{
+    display:flex;
+    justify-content: center;
+    
+}
