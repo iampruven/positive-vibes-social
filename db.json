@@ -5,35 +5,40 @@
       "title": "relaxing tea",
       "description": "Today was a good day",
       "img": "tea.jpeg",
-      "likes": 10
+      "likes": 10,
+      "numbersOfComments": 2
     },
     {
       "id": 2,
       "title": "beach day fun",
       "description": "My goals",
       "img": "beach.jpeg",
-      "likes": 4
+      "likes": 4,
+      "numbersOfComments": 1
     },
     {
       "id": 3,
       "title": "working hard",
       "description": "Learning react",
       "img": "laptop.jpeg",
-      "likes": 5
+      "likes": 5,
+      "numbersOfComments": 1
     },
     {
       "id": 4,
       "title": "becoming artistic",
       "description": "drawing on procreate",
       "img": "ipadart.jpeg",
-      "likes": 3
+      "likes": 3,
+      "numbersOfComments": 2
     },
     {
       "id": 5,
       "title": "be fit!",
       "description": "earning a healthy and firm body",
       "img": "workoutgirl.jpeg",
-      "likes": 2
+      "likes": 2,
+      "numbersOfComments": 3
     }
   ],
   "comments": [
@@ -44,6 +49,7 @@
     { "id": 5, "body": "You are such a great artist already!", "postId": 4 },
     { "id": 6, "body": "This is such a great drawing.", "postId": 4 },
     { "id": 7, "body": "Work it girl!", "postId": 5 },
-    { "id": 8, "body": "Body goals!", "postId": 5 }
+    { "id": 8, "body": "Body goals!", "postId": 5 },
+    { "id": 9, "body": "Hard work pays off!", "postId": 5 }
   ]
 }
